@@ -1,0 +1,4 @@
+E:/ClionProject/C/AirlineBookingSystem/cmake-build-debug/CMakeFiles/airline_server.dir
+E:/ClionProject/C/AirlineBookingSystem/cmake-build-debug/CMakeFiles/airline_client.dir
+E:/ClionProject/C/AirlineBookingSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/ClionProject/C/AirlineBookingSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
